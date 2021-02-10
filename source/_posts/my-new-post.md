@@ -1,7 +1,7 @@
 ---
 title: my new post
 date: 2021-02-10 19:58:23
-tags: [new]
+tags: [new, old]
 categories: [test]
 ---
 
