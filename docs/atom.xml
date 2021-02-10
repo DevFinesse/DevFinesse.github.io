@@ -6,7 +6,7 @@
   <link href="https://devfinesse.github.io/atom.xml" rel="self"/>
   
   <link href="https://devfinesse.github.io/"/>
-  <updated>2021-02-10T16:02:33.063Z</updated>
+  <updated>2021-02-10T19:00:03.089Z</updated>
   <id>https://devfinesse.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my new post</title>
+    <link href="https://devfinesse.github.io/2021/02/10/my-new-post/"/>
+    <id>https://devfinesse.github.io/2021/02/10/my-new-post/</id>
+    <published>2021-02-10T18:58:23.000Z</published>
+    <updated>2021-02-10T19:00:03.089Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Isaacman’s Blog</strong> is all about what is going around you</p><p>Our mission is to provide You with whatever you are looking for</p><p>Entertainment, Technology, Celebrity Gist and all</p><p>Catch up with us on <a class="link"   href="https://twitter.com/isaacman_" >Twitter<i class="fas fa-external-link-alt"></i></a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Isaacman’s Blog&lt;/strong&gt; is all about what is going around you&lt;/p&gt;
+&lt;p&gt;Our mission is to provide You with whatever you are looking</summary>
+      
+    
+    
+    
+    <category term="test" scheme="https://devfinesse.github.io/categories/test/"/>
+    
+    
+    <category term="new" scheme="https://devfinesse.github.io/tags/new/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
